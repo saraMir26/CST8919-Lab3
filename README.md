@@ -141,27 +141,34 @@ The following deployment scenarios were tested.
 
 # Screenshots
 
-The following screenshots were captured during the lab:
+The following screenshots were captured during the lab:  
 
-###  1. Custom Policy – Only-CanadaCentral  
-![1.](./Screenshots/01-only-canadacentral-policy.png)  
+###  1. Custom Policy – Only-CanadaCentral   
+![1.](./Screenshots/01-only-canadacentral-policy.png)    
 
-### 2. Custom Policy – Require-ProjectName-Tag   
-![2](./Screenshots/02-require-projectname-tag.png)  
+### 2. Custom Policy – Require-ProjectName-Tag     
+![2](./Screenshots/02-require-projectname-tag.png)    
 
-### 3. Custom Policy – Deny-Public-IP   
-![2](./Screenshots/03-deny-public-ip.png)
+### 3. Custom Policy – Deny-Public-IP    
+![2](./Screenshots/03-deny-public-ip.png)   
 
-### 4. MapleTech Secure Foundation Initiative   
-![2](./Screenshots/04-initiative-definition.png)
+### 4. MapleTech Secure Foundation Initiative    
+![2](./Screenshots/04-initiative-definition.png)   
 
-### 5. Initiative Assignment   
-![2](./Screenshots/05-policy-assignment.png)  
+### 5. Initiative Assignment    
+![2](./Screenshots/05-policy-assignment.png)   
 
-6. Deployment denied outside Canada Central
-7. Deployment denied because ProjectName tag was missing
-8. Public IP creation denied
-9. Successful compliant deployment (if applicable)
+### 6. Deployment denied outside Canada Central   
+![2](./Screenshots/6-Deployment-denied-outside-Canada-Central.png)   
+
+### 7. Deployment denied because ProjectName tag was missing    
+![2](./Screenshots/7-Require-ProjectName-Tag.png)      
+ 
+### 8. Public IP creation denied   
+![2](./Screenshots/8-Deny-Public-IP.png)    
+
+### 9. Successful compliant deployment   
+![2](./Screenshots/9-Successful-compliant-deployment.png)     
 
 ---
 
@@ -200,6 +207,8 @@ By creating custom policies, grouping them into an initiative, and assigning the
 
 # Video Demonstration
 
-**Video Link:**
+**Please click below to watch the demo video:**     
+[![Watch the video](https://img.youtube.com/vi/sw_sTZbr4Ms/hqdefault.jpg)](https://www.youtube.com/watch?v=sw_sTZbr4Ms)
+
 
 
