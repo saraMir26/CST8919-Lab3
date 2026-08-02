@@ -1,0 +1,20 @@
+{
+  "mode": "Indexed",
+  "policyRule": {
+    "if": {
+      "allOf": [
+        {
+          "field": "location",
+          "notEquals": "canadacentral"
+        },
+        {
+          "field": "location",
+          "notEquals": "global"
+        }
+      ]
+    },
+    "then": {
+      "effect": "deny"
+    }
+  }
+}
